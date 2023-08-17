@@ -1,0 +1,10 @@
+.DS_Store
+build
+bak/
+sync
+user.yaml
+installation.yaml
+*.userdb
+tags*
+/custom_phrase_double_pinyin.txt
+/custom_phrase.txt

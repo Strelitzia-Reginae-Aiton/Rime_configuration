@@ -1,0 +1,30 @@
+---
+name: luna
+version: "2022-10-03"
+sort: by_weight
+import_tables:
+  - luna_pinyin.biaoqing # 表情
+  - luna_pinyin.emoji # emoji Ext
+  - luna_pinyin.anime
+  - luna_pinyin.chat
+  - luna_pinyin.computer
+  - luna_pinyin.extended
+  - luna_pinyin.extra_hanzi
+  - luna_pinyin.game
+  - luna_pinyin.history
+  - luna_pinyin.moba
+  - luna_pinyin.movie
+  - luna_pinyin.music
+  - luna_pinyin.net
+  - luna_pinyin.place
+  - luna_pinyin.poetry
+  - luna_pinyin.schema
+  - luna_pinyin.sgmain
+  - luna_pinyin.sgplus
+  - luna_pinyin.sgplus2
+  - luna_pinyin.shopping
+  - luna_pinyin.user
+  - luna_pinyin.website
+  - luna_pinyin.comprehensive
+...
+
